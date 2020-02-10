@@ -1,8 +1,11 @@
-host: rakyll.pizza
+host: go.packetbroker.org
 
 paths:
-  /portmidi:
-    repo: https://github.com/rakyll/portmidi
+  /api:
+    repo: https://github.com/packetbroker/go-api
 
-  /launchpad:
-    repo: https://github.com/rakyll/launchpad
+  /pb:
+    repo: https://github.com/packetbroker/pb
+
+  /router:
+    repo: https://github.com/packetbroker/router
