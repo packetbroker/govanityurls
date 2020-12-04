@@ -7,5 +7,14 @@ paths:
   /pb:
     repo: https://github.com/packetbroker/pb
 
+  /pkg:
+    repo: https://github.com/packetbroker/pkg
+
+  /iam:
+    repo: https://github.com/packetbroker/iam
+
+  /controlplane:
+    repo: https://github.com/packetbroker/controlplane
+
   /router:
     repo: https://github.com/packetbroker/router
